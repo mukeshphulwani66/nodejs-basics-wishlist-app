@@ -1,0 +1,17 @@
+{
+  "name": "wish-list",
+  "version": "1.0.0",
+  "description": "awesome app",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "mukesh phulwani",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "mongoose": "^5.5.1"
+  }
+}
